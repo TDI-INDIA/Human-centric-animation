@@ -1,5 +1,6 @@
 frames/
 *.mp4
+!media/*.mp4
 *.wav
 *.mp3
 node_modules/

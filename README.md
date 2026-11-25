@@ -2,6 +2,13 @@
 
 Two Claude skills that work as a pipeline for making stop-motion style reels, ads and scroll pages starring original photo-real cutout characters.
 
+<p align="center">
+  <img src="media/preview.gif" width="320" alt="Animated preview: a furious founder in a blue hoodie rants at his ad agency while word stamps like CAC, CTR and AD FATIGUE pop in">
+</p>
+
+<p align="center"><b>▶ <a href="media/selltheclick-founder-rant.mp4">Watch the full reel with sound (41s MP4)</a></b><br>
+<sub>Made with these two skills: AI-generated characters, stop-motion pose swaps, a voiceover with timed captions, and a soft-sell end card. Contains strong language.</sub></p>
+
 | Skill | What it does |
 |---|---|
 | [`collage-character-set`](skills/collage-character-set/SKILL.md) | Designs an original character (or cast), generates a consistent pose set, cuts the poses out and normalizes them into `characters/<name>/` |
