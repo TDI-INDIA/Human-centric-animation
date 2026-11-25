@@ -2,6 +2,8 @@
 
 Two Claude skills that work as a pipeline for making stop-motion style reels, ads and scroll pages starring original photo-real cutout characters.
 
+> **Built for solopreneurs.** We'll keep publishing new Claude skills here so that solo founders can promote their products with striking animations: no agency, no animator, no motion-design skills. Star or watch the repo to get each new skill as it drops.
+
 <p align="center">
   <img src="media/preview.gif" width="320" alt="Animated preview: a furious founder in a blue hoodie rants at his ad agency while word stamps like CAC, CTR and AD FATIGUE pop in">
 </p>
@@ -36,3 +38,12 @@ Script requirements:
 ## Rules baked in
 - Original characters only: no real people, celebrities, or existing brand or film characters.
 - Every pose must be the same person in the same outfit. Regenerate any pose that drifts.
+
+## What's next
+This is a growing library, and more animation skills for solopreneurs are on the way:
+- **Animated explainer maps**: metro-map and flow-style infographics with looping motion for LinkedIn lead magnets
+- **More character formats**: customer personas, product mascots and multi-character skits
+- **Ad-ready variants**: bleeped cuts, 1:1 and 16:9 exports, and hook A/B versions from one scene
+
+Have a format you want? Open an issue.
+
